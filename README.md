@@ -29,7 +29,7 @@ This tool allows you to find the x and y coordinates of a mouse click on an imag
 
 ## Example
 
-![Example Image](example.png)
+![Example Image](example.gif)
 
 ## Contact Me
 
