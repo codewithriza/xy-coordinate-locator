@@ -1,4 +1,4 @@
-# Image X,Y Coordinate Finder
+# Image (X,Y) Coordinate Finder
 
 This tool allows you to find the x and y coordinates of a mouse click on an image displayed in a Tkinter window. It's useful for tasks that require pinpointing specific locations on an image.
 
