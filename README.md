@@ -27,7 +27,7 @@ This tool allows you to find the x and y coordinates of a mouse click on an imag
 - Click anywhere on the image to find the x and y coordinates of the mouse click.
 - The coordinates will be printed in the console.
 
-## Example
+## Example GIF
 
 ![Example Image](example.gif)
 
