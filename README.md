@@ -33,4 +33,8 @@ This tool allows you to find the x and y coordinates of a mouse click on an imag
 
 ## Contact Me
 
-If you have any questions, suggestions, or issues with the tool, feel free to contact me on Discord: [findkeys](https://discord.com/users/840848369484169266).
+If you have any questions, suggestions, or issues with the script, feel free to contact me.
+
+---
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/840848369484169266)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/f1ndkeys)
